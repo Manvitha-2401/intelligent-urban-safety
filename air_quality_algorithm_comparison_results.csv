@@ -1,0 +1,7 @@
+
+Algorithm,Accuracy
+Logistic Regression,92.90
+Decision Tree,92.80
+Random Forest,95.10
+XGBoost,95.10
+LightGBM,95.30

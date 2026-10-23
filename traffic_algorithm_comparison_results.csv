@@ -1,0 +1,6 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score
+LightGBM,92.82,92.92,92.82,92.85
+XGBoost,92.28,92.37,92.28,92.31
+Decision Tree,90.41,90.45,90.41,90.42
+Random Forest,90.27,90.36,90.27,90.31
+Logistic Regression,76.15,75.85,76.15,75.54

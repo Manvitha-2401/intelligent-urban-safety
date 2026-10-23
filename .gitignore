@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+data/POPULATION/US_Accidents_March23.csv
+data/POPULATION/ACCIDENT.zip
+data/POPULATION/ACCIDENT/US_Accidents_March23.csv
